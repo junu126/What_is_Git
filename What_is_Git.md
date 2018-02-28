@@ -96,6 +96,6 @@ Github는 Git의 사용자에게 저장소와 협업 공간 등을 제공해줍�
     <li>SourceTree에서 Github에서 만든 저장소를 clone해 가져옵니다. // (Github에서 만들었던 저장소의 URL을 복사해서 Source path / URL: 에 넣으시면 됩니다.)</li>
     <li>4번까지 모두 마치면 프로그래밍 작업을 합니다. 물론 저장은 Clone 해온 폴더에 저장합니다. // (문서에 Clone해온 저장소의 이름으로 폴더가 있습니다.)</li>
     <li>작업을 끝 마치고 github에 업로드 할때 에는 Sourcetree에서 원하는 파일을 체크한 후 Stage Selected를 눌러서 업로드 합니다.</li>
-        ![사용예시](What_is_Git-photo.png "Using")
+![사용예시](What_is_Git-photo.png "Using")
 </ol>
-    ![사용예시](What_is_Git-photo.png "Using")
+![사용예시](What_is_Git-photo.png "Using")
